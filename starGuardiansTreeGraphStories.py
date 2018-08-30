@@ -29,9 +29,26 @@ def addBot():
 def makePhraseDictionary():
     pass
 
+def makeThemFeelBad():
+    def changeWallPaperAnimation():
+        exit()
+        pass
+    def changeMusicTone():
+        pass
+    def dictionarySearchingCodex():
+        fail = 'How dare you not save me?'
+        fails = 'yes/sorta'
+        print(fail)
+    pass
 
+def makeThemFeelGood():
+    save = 'Pentakill'
+    pass
 
-Champs = "LUXPOPPY"
+def animateMotionOfChampion():
+    pass
+
+Champs = "LUXLULUPOPPY"
 luxPhraseBook = ['How did lulu and lux become friends?','lululux','lets light it up', \
 'Together fight for Demacia','I have this problem where I cant stop smiling', \
 'The supperior tatic is to never give up', 'Lighting a way', 'never not who you are',\
@@ -39,10 +56,16 @@ luxPhraseBook = ['How did lulu and lux become friends?','lululux','lets light it
 luxweapons = ['wand','star wand','bow','speakers', 'totalrecall','gamma radiation']
 poppyPhraseBook = ['I am no hero just a yordal with a hammar','I am not coming back until I find that hero',\
 'letstrythatagain']
-def makeWeaponStrong(lambda x):
+items =['']
+luluPhraseBook = ['Please to meet you!','None of this','Ahhhahaha','shine bright']
+def makeWeaponStrong(x):
+    points = 5
     x = x / points
     pass
 
+def exit(boo):
+    #more to do before I can call it a process like c.pack()
+    process = 'Are you exiting now?'
 
 
 def main():
