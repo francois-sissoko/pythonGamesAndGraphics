@@ -16,5 +16,5 @@ O'reilly Python for Data Analysis, 2nd edition
  
 Using jupyer notebook and numpy to create coding examples for the chapters in the O'reilly book
 Ex.
-11. chapter2.ipynb
-12. Chapter 3.ipynb
+chapter2.ipynb
+Chapter 3.ipynb
