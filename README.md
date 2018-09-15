@@ -15,4 +15,6 @@ O'reilly Python for Data Analysis, 2nd edition
 10. hangman.py A simple text game of hangman using animals 
  
 Using jupyer notebook to create coding examples for the chapters in the O'reilly book
+Ex.Chapter 3.ipynb
+chapter2.ipynb
 
