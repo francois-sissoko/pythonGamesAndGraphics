@@ -14,7 +14,7 @@ O'reilly Python for Data Analysis, 2nd edition
 9. countdown_calendar.py Doesn't work completely just a design for striping a textfile and making it into a calendar using datetime from python
 10. hangman.py A simple text game of hangman using animals 
  
-Using jupyer notebook to create coding examples for the chapters in the O'reilly book
+Using jupyer notebook and numpy to create coding examples for the chapters in the O'reilly book
 Ex.
 chapter2.ipynb
 Chapter 3.ipynb
