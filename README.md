@@ -10,4 +10,4 @@ Coding projects in python for games and visualizations
 7. starGuardiansTreeGraphStories.py The lore of star guardians is you should always Please to meet you! Shine Bright
 8. chat.py A simple server that allows you to capture text data messages over network protocol
 9. countdown_calendar.py Doesn't work completely just a design for striping a textfile and making it into a calendar using datetime from python
- 
+10. sonartreasurehunt.py Sonar Treasure Hunt is a python based game to functions like minesweeper where you select a position on the board and the board will display the distance to the sonar treasure chest 
