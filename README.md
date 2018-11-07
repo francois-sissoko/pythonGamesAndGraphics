@@ -18,3 +18,5 @@ Using jupyer notebook and numpy to create coding examples for the chapters in th
 Ex.
 chapter2.ipynb
 Chapter 3.ipynb
+
+11. sonartreasurehunt.py Sonar Treasure Hunt is a python based game to functions like minesweeper where you select a position on the board and the board will display the distance to the sonar treasure chest 
