@@ -1,6 +1,8 @@
 # pythonGamesAndGraphics
 Coding projects in python for games and visualizations DK 
+
 Invent your own computer games with python
+
 O'reilly Python for Data Analysis, 2nd edition
 
 1. robotbulider.py uses turtle to draw a robot using python turtle graphics. 
@@ -19,6 +21,10 @@ Using jupyer notebook and numpy to create coding examples for the chapters in th
 Ex.
 chapter2.ipynb
 Chapter 3.ipynb
+chapter4.ipynb
+chapter5.ipynb
+chapter6.ipynb
+chapter8.ipynb
 
 11. sonartreasurehunt.py Sonar Treasure Hunt is a python based game to functions like minesweeper where you select a position on the board and the board will display the distance to the sonar treasure chest 
 
