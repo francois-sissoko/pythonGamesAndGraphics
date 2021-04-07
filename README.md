@@ -16,6 +16,7 @@ O'reilly Python for Data Analysis, 2nd edition
 9. countdown_calendar.py Doesn't work completely just a design for striping a textfile and making it into a calendar using datetime from python
 
 10. hangman.py A simple text game of hangman using animals 
+11. getweatherdata.py uses an api to grab current weather data and display it on a basic gui
  
 Using jupyer notebook and numpy to create coding examples for the chapters in the O'reilly book
 Ex.
